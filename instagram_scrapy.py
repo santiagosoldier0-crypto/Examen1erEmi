@@ -9,7 +9,7 @@ import concurrent.futures
 # ==============================
 # CONFIGURACIÓN
 # ==============================
-SESSION_ID = "48884460708%3AXDbufgBaTNWnRA%3A23%3AAYiIf9CsG6xce_pdI6GATYjneZWEo0KnEfHdwIcbVA"
+SESSION_ID = "77966635503%3A1GtGbIMMUvfQZ9%3A24%3AAYgtVMhLuRIy-piUV1lJUIHoPcS8kh2aSNO32dy9IQ"
 
 
 # ==============================
